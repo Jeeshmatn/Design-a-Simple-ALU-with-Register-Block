@@ -4,12 +4,11 @@ reg Write_Enable;
 reg Reg_Select;
 reg [7:0]Data_In;
 reg  [2:0] ALU_OP;
-wire  [7:0]ALU_Out;
-wire  carry;
+wire  [8:0]ALU_Out;
     
     
 top uut(  .Write_Enable(Write_Enable) ,  .Reg_Select(Reg_Select)  , .Data_In(Data_In) ,
-          .ALU_OP(ALU_OP) ,  .ALU_Out(ALU_Out) , .carry(carry) );   
+          .ALU_OP(ALU_OP) ,  .ALU_Out(ALU_Out)  );   
     
 initial begin
 
@@ -19,7 +18,7 @@ initial begin
     #10;
      Write_Enable=1; Reg_Select=1;Data_In=8'd7;ALU_OP=3'b001;
     #10;
-    Write_Enable=1; Reg_Select=1;Data_In=8'd7;ALU_OP=3'b000;
+    Write_Enable=1; Reg_Select=1;Data_In=8'd254;ALU_OP=3'b000;
     #10;
     $finish();  
 end    
