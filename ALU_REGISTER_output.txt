@@ -1,0 +1,45 @@
+# KERNEL: [GEN] DATA SEND TO DRV Write_Enable :1 	 Reg_Select :0 	                Data_In:192 	 ALU_OP: 0 	 ALU_Out:0 
+# KERNEL: [DRV] DATA RCVD FROM GEN Write_Enable :1 	 Reg_Select :0 	                Data_In:192 	 ALU_OP: 0 	 ALU_Out:0 
+# KERNEL: [MON] DATA SEND TO SCO Write_Enable :1 	 Reg_Select :0 	                Data_In:192 	 ALU_OP: 0 	 ALU_Out:192 
+# KERNEL: [SCO] DATA RCVD FROM MON Write_Enable :1 	 Reg_Select :0 	                Data_In:192 	 ALU_OP: 0 	 ALU_Out:192 
+# KERNEL: [GEN] DATA SEND TO DRV Write_Enable :1 	 Reg_Select :1 	                Data_In:95 	 ALU_OP: 0 	 ALU_Out:0 
+# KERNEL: [DRV] DATA RCVD FROM GEN Write_Enable :1 	 Reg_Select :1 	                Data_In:95 	 ALU_OP: 0 	 ALU_Out:0 
+# KERNEL: [MON] DATA SEND TO SCO Write_Enable :1 	 Reg_Select :1 	                Data_In:95 	 ALU_OP: 0 	 ALU_Out:287 
+# KERNEL: [SCO] DATA RCVD FROM MON Write_Enable :1 	 Reg_Select :1 	                Data_In:95 	 ALU_OP: 0 	 ALU_Out:287 
+# KERNEL: [GEN] DATA SEND TO DRV Write_Enable :1 	 Reg_Select :0 	                Data_In:96 	 ALU_OP: 0 	 ALU_Out:0 
+# KERNEL: [DRV] DATA RCVD FROM GEN Write_Enable :1 	 Reg_Select :0 	                Data_In:96 	 ALU_OP: 0 	 ALU_Out:0 
+# KERNEL: [MON] DATA SEND TO SCO Write_Enable :1 	 Reg_Select :0 	                Data_In:96 	 ALU_OP: 0 	 ALU_Out:191 
+# KERNEL: [SCO] DATA RCVD FROM MON Write_Enable :1 	 Reg_Select :0 	                Data_In:96 	 ALU_OP: 0 	 ALU_Out:191 
+# KERNEL: [GEN] DATA SEND TO DRV Write_Enable :1 	 Reg_Select :1 	                Data_In:241 	 ALU_OP: 0 	 ALU_Out:0 
+# KERNEL: [DRV] DATA RCVD FROM GEN Write_Enable :1 	 Reg_Select :1 	                Data_In:241 	 ALU_OP: 0 	 ALU_Out:0 
+# KERNEL: [MON] DATA SEND TO SCO Write_Enable :1 	 Reg_Select :1 	                Data_In:241 	 ALU_OP: 0 	 ALU_Out:337 
+# KERNEL: [SCO] DATA RCVD FROM MON Write_Enable :1 	 Reg_Select :1 	                Data_In:241 	 ALU_OP: 0 	 ALU_Out:337 
+# KERNEL: [GEN] DATA SEND TO DRV Write_Enable :1 	 Reg_Select :1 	                Data_In:50 	 ALU_OP: 0 	 ALU_Out:0 
+# KERNEL: [DRV] DATA RCVD FROM GEN Write_Enable :1 	 Reg_Select :1 	                Data_In:50 	 ALU_OP: 0 	 ALU_Out:0 
+# KERNEL: [MON] DATA SEND TO SCO Write_Enable :1 	 Reg_Select :1 	                Data_In:50 	 ALU_OP: 0 	 ALU_Out:146 
+# KERNEL: [SCO] DATA RCVD FROM MON Write_Enable :1 	 Reg_Select :1 	                Data_In:50 	 ALU_OP: 0 	 ALU_Out:146 
+# KERNEL: [GEN] DATA SEND TO DRV Write_Enable :1 	 Reg_Select :0 	                Data_In:33 	 ALU_OP: 0 	 ALU_Out:0 
+# KERNEL: [DRV] DATA RCVD FROM GEN Write_Enable :1 	 Reg_Select :0 	                Data_In:33 	 ALU_OP: 0 	 ALU_Out:0 
+# KERNEL: [MON] DATA SEND TO SCO Write_Enable :1 	 Reg_Select :0 	                Data_In:33 	 ALU_OP: 0 	 ALU_Out:83 
+# KERNEL: [SCO] DATA RCVD FROM MON Write_Enable :1 	 Reg_Select :0 	                Data_In:33 	 ALU_OP: 0 	 ALU_Out:83 
+# KERNEL: [GEN] DATA SEND TO DRV Write_Enable :1 	 Reg_Select :0 	                Data_In:176 	 ALU_OP: 0 	 ALU_Out:0 
+# KERNEL: [DRV] DATA RCVD FROM GEN Write_Enable :1 	 Reg_Select :0 	                Data_In:176 	 ALU_OP: 0 	 ALU_Out:0 
+# KERNEL: [MON] DATA SEND TO SCO Write_Enable :1 	 Reg_Select :0 	                Data_In:176 	 ALU_OP: 0 	 ALU_Out:226 
+# KERNEL: [SCO] DATA RCVD FROM MON Write_Enable :1 	 Reg_Select :0 	                Data_In:176 	 ALU_OP: 0 	 ALU_Out:226 
+# KERNEL: [GEN] DATA SEND TO DRV Write_Enable :1 	 Reg_Select :1 	                Data_In:88 	 ALU_OP: 0 	 ALU_Out:0 
+# KERNEL: [DRV] DATA RCVD FROM GEN Write_Enable :1 	 Reg_Select :1 	                Data_In:88 	 ALU_OP: 0 	 ALU_Out:0 
+# KERNEL: [MON] DATA SEND TO SCO Write_Enable :1 	 Reg_Select :1 	                Data_In:88 	 ALU_OP: 0 	 ALU_Out:264 
+# KERNEL: [SCO] DATA RCVD FROM MON Write_Enable :1 	 Reg_Select :1 	                Data_In:88 	 ALU_OP: 0 	 ALU_Out:264 
+# KERNEL: [GEN] DATA SEND TO DRV Write_Enable :1 	 Reg_Select :0 	                Data_In:163 	 ALU_OP: 0 	 ALU_Out:0 
+# KERNEL: [DRV] DATA RCVD FROM GEN Write_Enable :1 	 Reg_Select :0 	                Data_In:163 	 ALU_OP: 0 	 ALU_Out:0 
+# KERNEL: [MON] DATA SEND TO SCO Write_Enable :1 	 Reg_Select :0 	                Data_In:163 	 ALU_OP: 0 	 ALU_Out:251 
+# KERNEL: [SCO] DATA RCVD FROM MON Write_Enable :1 	 Reg_Select :0 	                Data_In:163 	 ALU_OP: 0 	 ALU_Out:251 
+# KERNEL: [GEN] DATA SEND TO DRV Write_Enable :1 	 Reg_Select :0 	                Data_In:121 	 ALU_OP: 0 	 ALU_Out:0 
+# KERNEL: [DRV] DATA RCVD FROM GEN Write_Enable :1 	 Reg_Select :0 	                Data_In:121 	 ALU_OP: 0 	 ALU_Out:0 
+# KERNEL: [MON] DATA SEND TO SCO Write_Enable :1 	 Reg_Select :0 	                Data_In:121 	 ALU_OP: 0 	 ALU_Out:209 
+# KERNEL: [SCO] DATA RCVD FROM MON Write_Enable :1 	 Reg_Select :0 	                Data_In:121 	 ALU_OP: 0 	 ALU_Out:209 
+# RUNTIME: Info: RUNTIME_0068 testbench.sv (178): $finish called.
+# KERNEL: Time: 1 us,  Iteration: 0,  Instance: /tb,  Process: @INITIAL#170_5@.
+# KERNEL: stopped at time: 1 us
+# VSIM: Simulation has finished. There are no more test vectors to simulate.
+# VSIM: Simulation has finished.
