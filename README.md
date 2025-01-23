@@ -1,4 +1,4 @@
-# Design a Simple ALU with Register Block
+# Design and verify Simple ALU with Register Block
 
 ## Specifications
 
